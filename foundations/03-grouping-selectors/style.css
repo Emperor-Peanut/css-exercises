@@ -1,0 +1,14 @@
+.yes-button {
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}
+
+.no-button {
+    background-color: yellow;
+}
+
+.yes-button, .no-button {
+    font-size: 28px;
+    font-family: 'Helvectila','Times New Roman', 'sans-serif' ;
+}
