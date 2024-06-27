@@ -1,0 +1,19 @@
+.normal,.big {
+    font-family: 'Verdanda','DejaVu Sand','sans-serif';
+    background-color:palevioletred;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#big-boi {
+    font-size: 36px;
+    color:blue
+}
+
+#big-green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight:bold;
+}
