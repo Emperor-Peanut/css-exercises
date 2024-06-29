@@ -2,5 +2,8 @@
  background-color: yellow;
  text-align: center;
  color:red;
+}
 
+* {
+    outline: 2px solid red;
 }
