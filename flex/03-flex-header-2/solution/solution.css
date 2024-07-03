@@ -23,6 +23,8 @@ body {
 }
 
 .logo {
+  display: flex;
+  margin: 30px;
   color: rebeccapurple;
   font-size: 32px;
   font-weight: 900;
